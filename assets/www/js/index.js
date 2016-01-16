@@ -66,7 +66,7 @@ var app = {
         window.plugins.toast.showShortCenter('PHONEGAP IS AWESOME!!!');
     },
     openWeb: function(){
-        var url = "http://phonegap.com"
+        var url = "https://www.cliqued.it/"
         window.open(url)
     }
 };
